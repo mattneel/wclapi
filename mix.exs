@@ -31,6 +31,6 @@ defmodule Wclapi.Mixfile do
      {:phoenix_pubsub, "~> 1.0"},
      {:gettext, "~> 0.11"},
      {:cowboy, "~> 1.0"},
-    {:wcl_ex, github: "mattneel/wcl_ex"}]
+     {:wcl_ex, github: "mattneel/wcl_ex"}]
   end
 end
